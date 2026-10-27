@@ -1,0 +1,50 @@
+{
+  "updated": "2026-10-26",
+  "items": [
+    {
+      "date": "2026-10-13",
+      "agency": "FBI",
+      "title": "North Korean IT Workers Expanding Use of Facilitators, Broadening Recruitment",
+      "url": "https://www.ic3.gov/PSA/2026/PSA261013",
+      "summary": "The Democratic People's Republic of Korea (North Korea) continues to improve its tactics to infiltrate western companies with thousands of state-controlled remote \"IT Workers\" (ITWs) while avoiding detection. ITWs are…",
+      "stat": "1,000s",
+      "statLabel": "of workers (FBI)"
+    },
+    {
+      "date": "2026-10-13",
+      "agency": "DOJ",
+      "title": "Justice Department Announces Coordinated Actions to Combat North Korean Remote IT Worker Schemes Affecting More than 70 U.S. Companies",
+      "url": "https://www.justice.gov/opa/pr/justice-department-announces-coordinated-actions-combat-north-korean-remote-it-worker",
+      "summary": "Today the Department of Justice announced coordinated actions against the Democratic People’s Republic of North Korea (DPRK) government’s schemes to fund its regime through remote information technology (IT) work for U.S.…",
+      "stat": "70+",
+      "statLabel": "U.S. companies"
+    },
+    {
+      "date": "2026-05-06",
+      "agency": "DOJ",
+      "title": "Two U.S. Nationals Sentenced for Facilitating Fraudulent Remote Information Technology Worker Schemes to Generate Revenue for the Democratic People’s Republic of Korea",
+      "url": "https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker-0",
+      "summary": "The Justice Department today announced the sentencings in separate cases of two U.S. nationals, Matthew Issac Knoot, of Nashville, Tennessee, and Erick Ntekereze Prince, of New York, for their roles in facilitating Democratic…",
+      "stat": "18 mo.",
+      "statLabel": "in prison, each"
+    },
+    {
+      "date": "2026-04-15",
+      "agency": "DOJ",
+      "title": "Two U.S. Nationals Sentenced for Facilitating Fraudulent Remote Information Technology Worker Scheme that Generated $5M in Revenue for the Democratic People’s Republic of Korea",
+      "url": "https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker",
+      "summary": "The Justice Department today announced the sentencings of two U.S. nationals, Kejia Wang, 42, and Zhenxing Wang, 39, for their roles in facilitating North Korean remote information technology (IT) workers posing as U.S. residents…",
+      "stat": "$5M",
+      "statLabel": "revenue for DPRK programs"
+    },
+    {
+      "date": "2026-03-20",
+      "agency": "DOJ",
+      "title": "Three sentenced for facilitating computer access in North Korean sanctions evasion scheme",
+      "url": "https://www.justice.gov/usao-sdga/pr/three-sentenced-facilitating-computer-access-north-korean-sanctions-evasion-scheme",
+      "summary": "Three men have been sentenced in federal court after pleading guilty to their roles in a nationwide scheme that enabled North Korean workers to access U.S.-based computer networks.",
+      "stat": "3",
+      "statLabel": "people sentenced"
+    }
+  ]
+}
